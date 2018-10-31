@@ -9,11 +9,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^3.0.2",
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "pg": "^7.6.0",
     "pg-hstore": "^2.3.2",
-    "sequelize": "^4.41.0",
+    "sequelize": "^3.5.1",
+    "sequelize-version": "0.0.57",
     "sqlite3": "^4.0.3",
     "underscore": "^1.9.1"
   }
